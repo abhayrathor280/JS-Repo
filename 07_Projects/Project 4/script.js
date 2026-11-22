@@ -1,0 +1,1 @@
+const randomNUmber = parseInt(math.random()*100 + 1)
